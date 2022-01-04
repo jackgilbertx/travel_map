@@ -28,12 +28,7 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyBcbR6RRtywg6IS4VDN_QCZON6D5Epu0do',
-  authDomain: 'travel-map-42391.firebaseapp.com',
-  projectId: 'travel-map-42391',
-  storageBucket: 'travel-map-42391.appspot.com',
-  messagingSenderId: '662829661913',
-  appId: '1:662829661913:web:d7e0cd5609a171defcc8c8',
+// Not public
 };
 
 // Initialize Firebase
